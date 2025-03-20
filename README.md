@@ -1,10 +1,14 @@
-# 🌟 신발 자동 청소기 (ASCM: Auto Shoes Clean Machine) 🌟
+# 👟 ASCM
+<strong>🫧Automatic Shoe Cleaning Machine</strong>
 
 ![ASCM 타이틀 이미지](./title_image.png)
 
+## 📅 프로젝트 기간
+2022년 3월 15일 - 2023년 7월 26일
+
 ## 📌 프로젝트 소개
 
-ASCM(Auto Shoes Clean Machine)은 날씨 데이터를 기반으로 신발을 자동으로 관리하고 청소해주는 혁신적인 기계입니다! 🌤️👟✨
+ASCM(Automatic Shoe Cleaning Machine)은 날씨 데이터를 기반으로 신발을 자동으로 관리하고 청소해주는 혁신적인 기계입니다! 🌤️👟✨
 
 Python을 활용한 웹 크롤링으로 실시간 날씨 정보를 수집하고, 이를 아두이노와 연동하여 스마트한 신발 관리 시스템을 구현했습니다.
 
@@ -37,6 +41,15 @@ Python을 활용한 웹 크롤링으로 실시간 날씨 정보를 수집하고,
 
 ![ASCII 아트 이미지](./Diagram.png)
 
+## 📐 참고 자료
+
+프로젝트의 상세 참고 자료는 다음 링크에서 확인하실 수 있습니다:
+
+- [📐기계 설계 (SolidWorks)](https://drive.google.com/drive/folders/1uvTzgp4PBG7PpWt2FKTiDaH4a-h6z20G?usp=sharing)
+- [📜작품 요약서](https://docs.google.com/document/d/1yZmnKZccMBMadbZn57XYt5emOuqqD1QF/edit?usp=sharing&ouid=107164361597916380257&rtpof=true&sd=true)
+- [🎥작동 영상](https://photos.google.com/album/AF1QipNINt-wL3AZ7HiL1x5MZcvwwTcVJHhr9cJAqxgI/photo/AF1QipPYNTvRRT-oH4TGh5pWbkjxYbvPau5xSWxTjNYT?hl=ko)
+
+
 ## 🚀 설치 및 실행 방법
 
 1. 레포지토리 클론
@@ -53,15 +66,18 @@ Python을 활용한 웹 크롤링으로 실시간 날씨 정보를 수집하고,
 
 ## 👥 팀 멤버
 
-- 🧑‍💻 홍길동: 프로젝트 리더 & 백엔드 개발
-- 👩‍💻 김철수: 하드웨어 설계 & 아두이노 프로그래밍
-- 🧑‍🔬 이영희: 데이터 분석 & 알고리즘 최적화
+- 🧑‍💻 조윤혁: 프로젝트 리더 & 외관 설계
+- 👩‍💻 김강현: 아두이노 프로그래밍 & 크롤링
+- 🧑‍🔬 양예성: 회로 설계 & 대회 준비
+
+## 🎖️참여 대회
+- Korean Code Fair(한국코드페어)
 
 ## 📞 문의하기
 
 프로젝트에 관한 문의사항이 있으시면 언제든 연락주세요! 📧
 
-이메일: ascm@example.com
+이메일: hyun0810d@gmail.com
 
 ## 🙏 감사의 말
 
